@@ -1,7 +1,6 @@
 #include "mbed.h"
+#include "LSM303D.h"
 
 int main() {
-    while (true) {
-        sleep();
-    }
+    
 }
